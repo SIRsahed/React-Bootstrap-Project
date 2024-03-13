@@ -1,0 +1,76 @@
+#feature2{
+    margin-bottom: 148px;
+}
+.f2_main{
+    padding: 75px 100px 70px 68px !important;
+    background-color: #F3F7FA;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    position: relative;
+}
+.f2_corner{
+    position: absolute;
+    top: -20px;
+    right: 0;
+}
+.f2_text h5{
+    color: #3734A9;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+}
+.f2_text h2{
+    color: #000;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -1.5px;
+    padding-bottom: 36px;
+}
+.f2_text p{
+    color: #757095;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.36px;
+}
+.f2_form label{
+    color: #3734A9;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: -0.48px;
+    padding-bottom: 22px;
+}
+.f2_form input{
+    padding: 18px 0 12px 21px;
+    width: 100%;
+    margin-bottom: 24px;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    outline: none;
+}
+.f2_form input::placeholder{
+    color: #64607D;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: -0.4px;
+}
+.f2_form button{
+    width: 100%;
+    color: #FFF;
+    padding: 16px 0;
+    background-color: #FF7F5C;
+    border: none;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
